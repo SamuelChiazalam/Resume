@@ -16,6 +16,7 @@ This repository contains my up-to-date resume.
 📫 Reach me at: samuelzalam#gmail.com
 
 🔗 Portfolio/GitHub: https://github.com/SamuelChiazalam/resume
+
 🚀 How to View
 
 You can view the latest version of my resume directly here.
